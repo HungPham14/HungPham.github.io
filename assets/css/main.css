@@ -100,7 +100,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #1e252d;
+		background-color: #000000;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3234,7 +3234,7 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #212931;
+			background-color: #000000;
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg-02.jpg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
@@ -3259,7 +3259,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background: #1e252d;
+			background: #000000;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3375,7 +3375,7 @@ input, select, textarea {
 			#intro .button.primary {
 				background-color: #ffffff;
 				box-shadow: none;
-				color: #1e252d !important;
+				color: #000000 !important;
 			}
 
 				#intro input[type="submit"].primary:hover,
@@ -3727,7 +3727,7 @@ input, select, textarea {
 				}
 
 					#nav ul.links li.active a {
-						color: #1e252d;
+						color: #000000;
 					}
 
 						#nav ul.links li.active a:hover {
