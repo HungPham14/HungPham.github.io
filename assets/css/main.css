@@ -2,11 +2,6 @@
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
-/*
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -280,10 +275,12 @@ input, select, textarea {
 		text-align: left;
 	}
 
-	.center {
+	.fitcenter {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
+		height=100%;
+		width: auto;
 	}
 
 	.align-center {
