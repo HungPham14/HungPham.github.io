@@ -271,16 +271,15 @@ input, select, textarea {
 			margin: 5rem 0;
 		}
 
-	.align-left {
-		text-align: left;
-	}
-
-	.fitcenter {
+	.center {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-		height: 100%;
-		width: auto;
+		width: 50%;
+	}
+	
+	.align-left {
+		text-align: left;
 	}
 
 	.align-center {
